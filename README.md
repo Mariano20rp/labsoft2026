@@ -1,16 +1,16 @@
 # labsoft2026
 
-#Actividad 1 - Laboratorio de Ingeniería del Software 2026
+# Actividad 1 - Laboratorio de Ingeniería del Software 2026
 
-#David82-Byte
+David82-Byte
 
-#adrianbetanzoslegaz
+adrianbetanzoslegaz
 
-#MiguelGarciaMartinezz
+MiguelGarciaMartinezz
 
-#IgnacioGonzalez2
+IgnacioGonzalez2
 
-#jose-vazquez
+jose-vazquez
 
 
 
